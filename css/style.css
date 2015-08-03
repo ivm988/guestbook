@@ -1,0 +1,12 @@
+.header {
+    height: 50px;
+    background-color: #48f;
+    margin-bottom: 40px;
+}
+.main{
+	margin-bottom: 20px;
+}
+.footer {
+    height: 120px;
+    background-color: #48f;
+}
